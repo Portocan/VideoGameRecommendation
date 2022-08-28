@@ -29,7 +29,7 @@ game_data = [["real time strategy", "Total War: Warhammer III", "63", "T", "CREA
              ["action", "Nova Drift", "96", "E", "Chimeric"],
              ["real time strategy", "Total War: Warhammer", "78", "T", "CREATIVE ASSEMBLY"],
              ["role playing game", "Cypberpunk 2077", "77", "M", "CD PROJECT RED"],
-             ["action", "Mount & Blade II: Bannerlord", "87", "T". "TaleWorlds Entertainment"],
+             ["action", "Mount & Blade II: Bannerlord", "87", "T", "TaleWorlds Entertainment"],
              ["real time strategy", "Rome: Total War", "94", "T", "CREATIVE ASSEMBLY"],
              ["adventure", "Inscryption", "97", "E", "Daniel Mullins Games"],
              ["action", "Death Stranding", "93", "M", "KOJIMA PRODUCTIONS"],
